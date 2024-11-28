@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a **Big Data Analytics Professional** with a s
 
 ## 📊 GitHub Stats  
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmK-codes&show_icons=true&theme=radical)  
-
+![Visitors](https://badges.pufler.dev/visits/OmK-codes/OmK-codes)
 ---
 
 ## 🌟 Academic Projects  
@@ -64,4 +64,3 @@ Welcome to my GitHub profile! I'm a **Big Data Analytics Professional** with a s
 *"Data is the oil of the 21st century, and analytics is the combustion engine."*  
 
 Thanks for visiting my profile! 😊
-
