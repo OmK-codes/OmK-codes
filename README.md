@@ -1,66 +1,51 @@
-# Hi there! 👋 I'm Om Kalanke  
+## Hi there 👋 My name is Om  
+Welcome to my GitHub profile!  
 
-Welcome to my GitHub profile! I'm a **Big Data Analytics Professional** with a strong background in data analysis, machine learning, and cloud-based solutions. With hands-on experience in developing impactful data-driven projects, I am committed to solving real-world problems through innovative solutions.  
+I'm a **Core Java student** with a strong background in data analysis and machine learning. With hands-on experience in developing impactful data-driven projects, I am committed to solving real-world problems through innovative solutions.  
 
----
-
-## 🚀 About Me  
-- 🎓 **Bachelor of Engineering in Mechanical Engineering**  
-- 🌱 Currently exploring: **Java Web Development + AI**
-- 🌟 Proficient in **data visualization, predictive modeling, and scalable data solutions**.  
-- 💬 Open to collaborating on **Big Data, Machine Learning, and Cloud Computing projects**.  
-
----
-
-## 🛠️ Technical Skills  
-
-### Programming Languages  
-- **Python**, **Java**, **R**  
-
-### Frameworks and Tools  
-- **Hadoop**, **PySpark**, **Pandas**, **Power BI**, **Kafka**, **Docker**  
-
-### Core Competencies  
-- **Data Management**: MySQL, Apache Cassandra, ETL  
-- **Data Science**: Machine Learning, Data Preprocessing  
-- **Cloud**: AWS, Azure  
-- **Data Visualization**: Power BI  
+Here are some ideas to get you started:  
+- 🌍 I'm based in Pune, India.  
+- 🔭 I’m currently working on **SQL, Power BI, and PySpark**.  
+- 🌱 I’m currently learning **Java Web Development + AI**.  
+- 📫 How to reach me: [GitHub Profile](https://github.com/OmK-codes)  
+- 📧 Email me at **omkalanke007@gmail.com**  
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/om-kalanke)  
+- ⚡ Fun fact: I’m passionate about exploring data and building innovative solutions!
 
 ---
 
-## 📊 GitHub Stats  
+## Languages and Tools I Work With  
+<p align="center">
+  <img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
+</p>
+ 
+
+---
+
+## My GitHub Stats & Badges  
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmK-codes&show_icons=true&theme=radical)  
-![Visitors](https://badges.pufler.dev/visits/OmK-codes/OmK-codes)
----
-
-## 🌟 Academic Projects  
-
-### Loan Repayment Risk Assessment  
-**Tools**: Hadoop, PySpark, Power BI, Azure  
-- Improved loan approval accuracy by 30% and reduced delinquency rates by 20%.  
-- Conducted comprehensive dataset analysis and developed predictive models.  
-- Leveraged advanced visualization tools for actionable insights.  
-
-### Enhanced Fraud Detection  
-**Tools**: PySpark, Power BI, Azure  
-- Built predictive models with 90% accuracy, reducing financial discrepancies by 42%.  
-- Deployed a scalable architecture on Azure for fraud detection in large datasets.  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmK-codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
-## 🎓 Academic Achievements  
-- **Data Analytics Virtual Experience Program** (Forage, 07/2023)  
-- **Python for Data Science Certificate** (IBM) 
+## GitHub Activity Graph  
+[![Om's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OmK-codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
-## 🤝 Let's Connect!  
-- 📫 **Email**: omkalanke007@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/om-kalanke)  
+## Profile Visits  
+![Visitor Count](https://profile-counter.glitch.me/{OmK-codes}/count.svg)
 
 ---
 
-### 🌟 Fun Quote  
-*"Data is the oil of the 21st century, and analytics is the combustion engine."*  
+Thanks for visiting my profile! 😊  
 
-Thanks for visiting my profile! 😊
