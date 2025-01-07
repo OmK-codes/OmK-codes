@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ## My GitHub Stats & Badges  
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmK-codes&show_icons=true&theme=radical)  
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmK-codes&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmK-codes&layout=compact&theme=radical)
 
 ---
