@@ -37,9 +37,8 @@ Thanks for visiting my profile! 😊
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmK-codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
-
-## GitHub Activity Graph  
-[![Om's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=OmK-codes&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## GitHub Streak Graph  
+![Om's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmK-codes&theme=radical)
 
 ---
 
