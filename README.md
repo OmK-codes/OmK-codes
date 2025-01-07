@@ -7,12 +7,10 @@ Here are some ideas to get you started:
 - 🌍 I'm based in Pune, India.  
 - 🔭 I’m currently working on **SQL, Power BI, and PySpark**.  
 - 🌱 I’m currently learning **Java Web Development + AI**.  
-- 📫 How to reach me: [OmK-codes.github.io](https://OmK-codes.github.io)  
+- 📫 How to reach me: https://github.com/OmK-codes  
 - 📧 Email me at **omkalanke007@gmail.com**  
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/om-kalanke)  
 - ⚡ Fun fact: I’m passionate about exploring data and building innovative solutions!  
-
-Thanks for visiting my profile! 😊  
 
 ---
 
@@ -44,3 +42,7 @@ Thanks for visiting my profile! 😊
 
 ## Profile Visits  
 ![Visitor Count](https://profile-counter.glitch.me/{OmK-codes}/count.svg)
+
+---
+
+Thanks for visiting my profile! 😊  
