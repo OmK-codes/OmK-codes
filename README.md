@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## My GitHub Stats & Badges  
 ![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmK-codes&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmK-codes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmK-codes&layout=compact&theme=radical)
 
 ---
 ## GitHub Streak Graph  
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ## Profile Visits  
-![Visitor Count](https://profile-counter.glitch.me/{OmK-codes}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/OmK-codes/count.svg)
 
 ---
 
